@@ -1,11 +1,11 @@
-#bootstrap-boilerplate
+# bootstrap-boilerplate
 
-##Boiler plate repository for new bootstrap website
+## Boiler plate repository for new bootstrap website
 
 
-###Steps to get up and running
+### Steps to get up and running
 
-1.Clone Repositroy
+1. Clone Repositroy
 
 2. Open in VS Code
 
